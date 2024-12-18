@@ -1,6 +1,15 @@
 
 ---
 
+**<details><summary>Version 0.1.3</summary>**
+
+ - Added scaffolding near fire exit.
+ - Dust storm effect now resumes when exiting fire exit.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.2</summary>**
 
  - Update to README.
