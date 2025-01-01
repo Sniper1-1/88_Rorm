@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.1.4</summary>**
+
+ - Removed collision on a puddle.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.3</summary>**
 
  - Added scaffolding near fire exit.
