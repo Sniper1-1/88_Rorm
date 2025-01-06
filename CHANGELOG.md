@@ -1,3 +1,10 @@
+---
+
+**<details><summary>Version 0.1.5</summary>**
+
+ - More compatibility with v0xx's LethalElements (confirmed with the Beta version).
+ 
+ </details>
 
 ---
 
