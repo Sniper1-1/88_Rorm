@@ -11,7 +11,9 @@ Adds a wasteland (mostly) vanilla-like moon to Lethal Company. ([Discord link](h
 > **POPULATION:** Burried<br>
 > **CONDITIONS:** Abandoned after a series of earthquakes.<br>
 > **FAUNA:** Dominated by a few species.
-![View of facility from ship](https://imgur.com/ABFa3Xb.png)
+![View of facility from ship](https://imgur.com/S3zpdV9.png)
+![View of trains](https://imgur.com/n9BxCvc.png)
+![View of hall](https://imgur.com/crOzlAR.png)
 
 </details>
 
