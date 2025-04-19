@@ -1,6 +1,16 @@
 
 ---
 
+**<details><summary>Version 0.1.8</summary>**
+
+ - Decorated.
+ - Gave train tracks some collision.
+ - Added 3 configs for extra worm spawns (each adds an extra 3 worm spawns, only one defaults to true).
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.7</summary>**
 
  - Icon updated.
