@@ -5,6 +5,7 @@
 
  - Added moon video.
  - More decor.
+ - Changed box mesh.
  
  </details>
 
