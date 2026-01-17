@@ -1,6 +1,15 @@
 
 ---
 
+**<details><summary>Version 1.0.0</summary>**
+
+ - Updated README.
+ - Uh... I think I tweaked the charger particles and something internal? Don't really remember.
+
+</details>
+
+---
+
 **<details><summary>Version 0.1.10</summary>**
 
  - Added Universal Radar as a dependency because I forgot to do it earlier.
