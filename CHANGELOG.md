@@ -1,6 +1,15 @@
 
 ---
 
+**<details><summary>Version 1.0.1</summary>**
+
+ - Updated for V81.
+ - Added DawnLib dependency for footstep system.
+
+</details>
+
+---
+
 **<details><summary>Version 1.0.0</summary>**
 
  - Updated README.
