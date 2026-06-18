@@ -1,15 +1,13 @@
 {
 	"name":"88_Rorm",
-	"version_number": "1.0.2",
+	"version_number": "1.0.3",
 	"website_url":"https://github.com/Sniper1-1/88_Rorm.git",
 	"description":"A wasteland, (mostly) vanilla-esque moon.",
 	"dependencies":[
-		"IAmBatby-LethalLevelLoader-1.6.9",
+		"IAmBatby-LethalLevelLoader-1.7.7",
 		"AudioKnight-StarlancerAIFix-3.13.1",
-		"JacobG5-JLL-1.10.0",
-		"WhiteSpike-Moon_Day_Speed_Multiplier_Patcher-1.0.1",
+		"JacobG5-JLL-1.10.1",
 		"mrov-AutoScroll-0.0.1",
-		"ScienceBird-Universal_Radar-1.2.4",
-		"TeamXiaolan-DawnLib-0.9.12"
+		"ScienceBird-Universal_Radar-1.2.4"
 	]
 }
